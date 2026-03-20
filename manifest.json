@@ -1,0 +1,37 @@
+{
+  "name": "IC Chip Checker - ای سی چپ چیکر",
+  "short_name": "IC Checker",
+  "description": "eMMC اور UFS چپ کوڈ چیک کریں - Check eMMC and UFS IC chip codes",
+  "start_url": "/ic-checker/emmc-checker.html",
+  "scope": "/ic-checker/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a0e1a",
+  "theme_color": "#00e5ff",
+  "lang": "ur",
+  "dir": "rtl",
+  "categories": ["utilities", "tools"],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [],
+  "shortcuts": [
+    {
+      "name": "کوڈ سرچ",
+      "short_name": "Search",
+      "description": "IC کوڈ سرچ کریں",
+      "url": "/ic-checker/emmc-checker.html#search"
+    }
+  ]
+}
